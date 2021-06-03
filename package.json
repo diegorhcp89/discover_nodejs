@@ -1,0 +1,27 @@
+{
+  "name": "discover_nodejs",
+  "version": "1.0.0",
+  "description": "praticando node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegorhcp89/discover_nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diegorhcp89/discover_nodejs/issues"
+  },
+  "homepage": "https://github.com/diegorhcp89/discover_nodejs#readme",
+  "dependencies": {
+    "inquirer": "^8.1.0",
+    "moment": "^2.29.1",
+    "opn": "^6.0.0"
+  },
+  "devDependencies": {
+    "cfonts": "^2.9.3"
+  }
+}
